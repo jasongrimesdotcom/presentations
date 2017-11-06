@@ -6,6 +6,7 @@ Dad, downhill + enduro mountain biker 🚵, music lover 👨‍🎤🤘, dog own
 
 # Follow me
 +[Twitter] (https://www.twitter.com/jasongrimes)
++
 +[LinkedIn] (https://www.linkedin.com/in/jasongrimes)
 
 
@@ -16,4 +17,8 @@ Dad, downhill + enduro mountain biker 🚵, music lover 👨‍🎤🤘, dog own
 +
 +[Slides] (https://speakerdeck.com/jasongrimes/archetype-of-sre-superhero-a-devops-journey)
 +
-
++
++**New Relic Infrastructure - Weapon of Choice -- FutureStack NYC 2017**
++
++[Slides] (https://speakerdeck.com/jasongrimes/new-relic-infrastructure-weapon-of-choice)
++
