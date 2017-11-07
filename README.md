@@ -6,6 +6,7 @@ Dad, downhill + enduro mountain biker 🚵, music lover 👨‍🎤🤘, dog own
 
 # Follow me
 +[Twitter] (https://www.twitter.com/jasongrimes)
+
 +[LinkedIn] (https://www.linkedin.com/in/jasongrimes)
 
 
