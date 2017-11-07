@@ -10,14 +10,13 @@ Dad, downhill + enduro mountain biker 🚵, music lover 👨‍🎤🤘, dog own
 +[LinkedIn] (https://www.linkedin.com/in/jasongrimes)
 
 
-### Latest:
+### Latest: Title -- Event/Date
 -----------------------------
   
 +**Archetype Of An SRE Superhero; A DevOps Journey 🐼 -- DevOpsDays PDX 2017**
-+
+
 +[Slides] (https://speakerdeck.com/jasongrimes/archetype-of-sre-superhero-a-devops-journey)
-+
+
 +**New Relic Infrastructure - Weapon of Choice -- FutureStack NYC 2017**
-+
+
 +[Slides] (https://speakerdeck.com/jasongrimes/new-relic-infrastructure-weapon-of-choice)
-+
