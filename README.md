@@ -13,7 +13,12 @@ Dad, downhill + enduro mountain biker 🚵, music lover 👨‍🎤🤘, dog own
 ### Latest: Title -- Event/Date
 -----------------------------
   
-+**Archetype Of An SRE Superhero; A DevOps Journey 🐼 -- DevOpsDays PDX 2017**
++**Concur's Digital Transformation; DevOps IRL 🐼 -- DevOpsDays Tel Aviv 2017**
+
++[Slides] (https://speakerdeck.com/jasongrimes/concurs-digital-transformation-devops-irl-devopsdays-tel-aviv-2017)
+
+
++**Archetype Of An SRE Superhero; A DevOps Journey 🐼 -- DevOpsDays Portland 2017**
 
 +[Slides] (https://speakerdeck.com/jasongrimes/archetype-of-sre-superhero-a-devops-journey)
 
